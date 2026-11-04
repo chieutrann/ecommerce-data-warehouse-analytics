@@ -1,7 +1,4 @@
-# ecommerce-data-warehouse-analytics
-
-# Product Owner Report
-## Olist E-Commerce Performance Analytics
+# Olist E-Commerce Performance Analytics
 
 ### 1. Project Overview
 The objective of this project is to develop an interactive business performance dashboard using the Brazilian E-Commerce Public Dataset (Olist).
