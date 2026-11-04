@@ -1,0 +1,6 @@
+
+# ZIP files
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
